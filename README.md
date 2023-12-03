@@ -1,6 +1,6 @@
 # ft_printf
 
-[![SUCCESS](https://i.postimg.cc/cH23NFHK/Screen-Shot-2023-12-03-at-9-50-07-AM.png)](https://postimg.cc/0MGjYd7x)
+[![SUCCESS](https://i.postimg.cc/15NH4q1h/Screen-Shot-2023-12-03-at-9-50-07-AM.png)](https://postimg.cc/ZC43M0qV)
 
 ## Because ft_putnbr() and ft_putstr() aren’t enough
 
